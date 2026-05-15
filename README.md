@@ -31,3 +31,19 @@ omarchy theme set hermes
 - `alacritty.toml`, `kitty.conf`, `ghostty.conf` — Terminal colors
 - `neovim.lua`, `vscode.json` — Editor themes
 - `btop.theme`, `mako.ini`, `swayosd.css`, `walker.css` — App theming
+
+### Wisp
+![Wisp theme preview](wisp/preview.png)
+
+A cold ghostly theme for Omarchy — ethereal mist, frost blue, and phantom void.
+
+- **Background**: `#0a111a`
+- **Accent**: `#8fbcb8`
+- **Foreground**: `#c4d8e8`
+
+#### Install
+Copy the `wisp/` directory into `~/.local/share/omarchy/themes/`, then:
+
+```bash
+omarchy theme set wisp
+```
