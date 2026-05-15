@@ -1,0 +1,17 @@
+.window_frame {
+  background-color: #0a0a0f;
+  border: 1px solid rgba(224, 165, 38, 0.2);
+  border-radius: 8px;
+}
+
+.osd-label {
+  color: #d4c8a0;
+}
+
+.osd-bar {
+  background-color: #1a1a24;
+}
+
+.osd-bar-filled {
+  background-color: #e0a526;
+}

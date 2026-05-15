@@ -1,0 +1,33 @@
+window {
+  background-color: rgba(10, 10, 15, 0.95);
+  border: 1px solid rgba(224, 165, 38, 0.2);
+  border-radius: 12px;
+  padding: 8px;
+}
+
+entry {
+  color: #d4c8a0;
+  padding: 6px 12px;
+  border-radius: 6px;
+}
+
+entry:selected {
+  background-color: rgba(224, 165, 38, 0.15);
+  color: #e0a526;
+}
+
+list {
+  background-color: transparent;
+}
+
+label {
+  color: #6e6a5a;
+}
+
+#search {
+  color: #d4c8a0;
+  background-color: rgba(26, 26, 36, 0.8);
+  border: 1px solid rgba(224, 165, 38, 0.15);
+  border-radius: 8px;
+  padding: 8px 12px;
+}
